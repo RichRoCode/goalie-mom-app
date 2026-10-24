@@ -1,4 +1,4 @@
-# Goalie Mom Feedback
+# Goalie Mom
 
 Public issue tracker for the Goalie Mom iOS app.
 
